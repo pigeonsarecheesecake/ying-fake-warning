@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/ying-fake-warning/static/css/main.a617e044.chunk.css",
-    "main.js": "/ying-fake-warning/static/js/main.273d8ab5.chunk.js",
-    "main.js.map": "/ying-fake-warning/static/js/main.273d8ab5.chunk.js.map",
-    "runtime-main.js": "/ying-fake-warning/static/js/runtime-main.6a3367eb.js",
-    "runtime-main.js.map": "/ying-fake-warning/static/js/runtime-main.6a3367eb.js.map",
-    "static/js/2.d01c14db.chunk.js": "/ying-fake-warning/static/js/2.d01c14db.chunk.js",
-    "static/js/2.d01c14db.chunk.js.map": "/ying-fake-warning/static/js/2.d01c14db.chunk.js.map",
-    "static/js/3.058a92d0.chunk.js": "/ying-fake-warning/static/js/3.058a92d0.chunk.js",
-    "static/js/3.058a92d0.chunk.js.map": "/ying-fake-warning/static/js/3.058a92d0.chunk.js.map",
+    "main.css": "/ying-fake-warning/static/css/main.7176885d.chunk.css",
+    "main.js": "/ying-fake-warning/static/js/main.b2917cd5.chunk.js",
+    "main.js.map": "/ying-fake-warning/static/js/main.b2917cd5.chunk.js.map",
+    "runtime-main.js": "/ying-fake-warning/static/js/runtime-main.d6b01e0c.js",
+    "runtime-main.js.map": "/ying-fake-warning/static/js/runtime-main.d6b01e0c.js.map",
+    "static/js/2.79aba0ae.chunk.js": "/ying-fake-warning/static/js/2.79aba0ae.chunk.js",
+    "static/js/2.79aba0ae.chunk.js.map": "/ying-fake-warning/static/js/2.79aba0ae.chunk.js.map",
+    "static/js/3.6113a7b8.chunk.js": "/ying-fake-warning/static/js/3.6113a7b8.chunk.js",
+    "static/js/3.6113a7b8.chunk.js.map": "/ying-fake-warning/static/js/3.6113a7b8.chunk.js.map",
     "index.html": "/ying-fake-warning/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/ying-fake-warning/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d01c14db.chunk.js.LICENSE.txt": "/ying-fake-warning/static/js/2.d01c14db.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ying-fake-warning/static/media/logo.6ce24c58.svg"
+    "static/css/main.7176885d.chunk.css.map": "/ying-fake-warning/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.79aba0ae.chunk.js.LICENSE.txt": "/ying-fake-warning/static/js/2.79aba0ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a3367eb.js",
-    "static/js/2.d01c14db.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.273d8ab5.chunk.js"
+    "static/js/runtime-main.d6b01e0c.js",
+    "static/js/2.79aba0ae.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.b2917cd5.chunk.js"
   ]
 }
