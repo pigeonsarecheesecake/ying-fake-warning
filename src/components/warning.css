@@ -6,6 +6,16 @@
     
 }
 
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+
+    80%{
+        opacity: .5
+    }
+
+}
 h1 {
     animation: blink 2s linear infinite;
     color: red;
@@ -16,8 +26,7 @@ h1 {
 
 .map{
     position: absolute;
-    height: 100px;
-    
+    left: -10em;
     
     
 }
