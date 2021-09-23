@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ying-fake-warning/static/css/main.d69cb626.chunk.css",
+    "main.css": "/ying-fake-warning/static/css/main.ca8502f5.chunk.css",
     "main.js": "/ying-fake-warning/static/js/main.3d3b635b.chunk.js",
     "main.js.map": "/ying-fake-warning/static/js/main.3d3b635b.chunk.js.map",
     "runtime-main.js": "/ying-fake-warning/static/js/runtime-main.6a3367eb.js",
@@ -10,14 +10,14 @@
     "static/js/3.058a92d0.chunk.js": "/ying-fake-warning/static/js/3.058a92d0.chunk.js",
     "static/js/3.058a92d0.chunk.js.map": "/ying-fake-warning/static/js/3.058a92d0.chunk.js.map",
     "index.html": "/ying-fake-warning/index.html",
-    "static/css/main.d69cb626.chunk.css.map": "/ying-fake-warning/static/css/main.d69cb626.chunk.css.map",
+    "static/css/main.ca8502f5.chunk.css.map": "/ying-fake-warning/static/css/main.ca8502f5.chunk.css.map",
     "static/js/2.d01c14db.chunk.js.LICENSE.txt": "/ying-fake-warning/static/js/2.d01c14db.chunk.js.LICENSE.txt",
     "static/media/warning-icon-hi.c83550b6.png": "/ying-fake-warning/static/media/warning-icon-hi.c83550b6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a3367eb.js",
     "static/js/2.d01c14db.chunk.js",
-    "static/css/main.d69cb626.chunk.css",
+    "static/css/main.ca8502f5.chunk.css",
     "static/js/main.3d3b635b.chunk.js"
   ]
 }
