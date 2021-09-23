@@ -1,2 +1,0 @@
-.image{position:relative;left:45%;text-align:center;max-width:-webkit-fit-content;max-width:-moz-fit-content;max-width:fit-content}@-webkit-keyframes blink{50%{opacity:0}80%{opacity:.5}}@keyframes blink{50%{opacity:0}80%{opacity:.5}}h1{-webkit-animation:blink 2s linear infinite;animation:blink 2s linear infinite;color:red}.image img{height:150px}.map{position:absolute;left:-10em}
-/*# sourceMappingURL=main.f9631683.chunk.css.map */
