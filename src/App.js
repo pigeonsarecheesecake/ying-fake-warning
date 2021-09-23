@@ -1,9 +1,10 @@
 import './App.css';
+import Warning from './components/warning';
 
 function App() {
   return (
     <div className="App">
-      <h1>yo</h1>
+      <Warning  />
     </div>
   );
 }

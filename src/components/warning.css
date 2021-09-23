@@ -1,0 +1,24 @@
+.image {
+    position: relative;
+    left: 45%;
+    text-align: center;
+    max-width: fit-content;  
+    
+}
+
+h1 {
+    animation: blink 2s linear infinite;
+    color: red;
+}
+.image img{
+    height: 150px;
+}
+
+.map{
+    position: absolute;
+    height: 100px;
+    
+    
+    
+}
+
